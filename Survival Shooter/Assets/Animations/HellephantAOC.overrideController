@@ -7,5 +7,11 @@ AnimatorOverrideController:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: HellephantAOC
-  m_Controller: {fileID: 0}
-  m_Clips: []
+  m_Controller: {fileID: 9100000, guid: 5639c516c82654319bd864426d0b076b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: be66986effd141b4992d2d78be127139, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: b77f122f451a2394898a24191c26107c, type: 3}
+  - m_OriginalClip: {fileID: 7400002, guid: be66986effd141b4992d2d78be127139, type: 3}
+    m_OverrideClip: {fileID: 7400002, guid: b77f122f451a2394898a24191c26107c, type: 3}
+  - m_OriginalClip: {fileID: 7400004, guid: be66986effd141b4992d2d78be127139, type: 3}
+    m_OverrideClip: {fileID: 7400004, guid: b77f122f451a2394898a24191c26107c, type: 3}
